@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'AIVision'
+project = 'ICreateRobot'
 copyright = 'ICreateRobot'
 author = 'ICreateRobot'
 copyright = 'ICreateRobot'
