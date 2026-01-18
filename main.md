@@ -14,6 +14,9 @@
 
 [AI Vision](https://ai-vision-docs.readthedocs.io/en/latest/)
 
+[Six Way Color Gray Sensor](https://six-way-color-gray-sensor-doc.readthedocs.io/en/latest/)
+
+[ICreateCode](https://icreaterobot-icreatecode-docs.readthedocs.io/en/latest/)
 
 
 
