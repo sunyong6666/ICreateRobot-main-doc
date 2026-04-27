@@ -12,8 +12,6 @@
 
 [Micro:bit](https://icreaterobot-microbit-docs.readthedocs.io/en/latest/)
 
-[ICreateRobot AI Vision Sensor - Basic](https://ai-vision-docs.readthedocs.io/en/latest/)
-
 [ICreateRobot AI Vision Sensor - Advanced](https://ai-vision-advanced-docs.readthedocs.io/en/latest/)
 
 [Six Way Color Gray Sensor](https://six-way-color-gray-sensor-doc.readthedocs.io/en/latest/)
